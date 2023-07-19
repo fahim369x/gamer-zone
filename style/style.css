@@ -435,3 +435,62 @@ nav {
 .categoryItem9 {
   width: 135px;
 }
+
+.footer-header-logo {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  display: flex;
+  width: 100%;
+  height: 500px;
+  background: #050112;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.footer-section-item {
+  text-align: center;
+}
+
+.footer-header-logo h2 {
+  color: #fff;
+}
+
+.footer-header-logo img {
+  width: 60px;
+  height: 40px;
+}
+.footer-our-service {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  color: #fff;
+}
+.our-social-media i {
+  text-align: center;
+  margin-top: 35px;
+  margin-left: 40px;
+  color: #fff;
+  font-size: 35px;
+}
+.footer-our-service p {
+  margin-right: 40px;
+}
+.our-social-media {
+  display: flex;
+  justify-content: center;
+}
+
+.privacysectionfirst {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+.policysecond {
+  margin-top: 20px;
+}
+.privacy-policy p {
+  color: #787777;
+}
