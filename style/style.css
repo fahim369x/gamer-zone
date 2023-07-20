@@ -115,7 +115,6 @@ nav {
 
 .banner-ti-h3 {
   color: #5f5f5f;
-
   font-size: 37px;
   font-weight: 600;
   text-transform: uppercase;
@@ -171,6 +170,7 @@ nav {
 
 .gamer-section-left img {
   margin-left: var(--margin-left-right);
+  width: 800px;
 }
 
 .gamer-section-right h1,
@@ -259,14 +259,6 @@ nav {
   margin-top: 50px;
 }
 
-.play-games-now-img {
-  background-image: url("../images/gamerzone18.png");
-  background-repeat: no-repeat;
-  width: 634.833px;
-  height: 650px;
-  border-radius: 8px;
-}
-
 .Instantly-playing-games-section {
   display: flex;
   justify-content: center;
@@ -279,34 +271,25 @@ nav {
   margin-right: 120px;
   margin-top: 200px;
 }
-.play-games-img {
-  border-radius: 8px;
-  background: url("../images/gamerzone18.png"),
-    lightgray -7.583px 0px / 102.389% 100% no-repeat;
-  width: 634.833px;
-  height: 650px;
+
+.play-games-img01 {
+  margin-left: -200px;
   position: relative;
+  z-index: -1;
+  width: 500px;
+}
+.play-games-img00 {
+  margin-bottom: -100px;
 }
 
-.play-games-img1 {
-  border-radius: 8px;
-  background: url("../images/gamerzone20.png"),
-    lightgray -7.583px 0px / 102.389% 100% no-repeat;
-  width: 634.833px;
-  height: 650px;
+.play-games-img001 {
+  margin-right: -200px;
   position: relative;
+  z-index: -1;
+  width: 500px;
 }
-
-.play-games-img img {
-  position: absolute;
-  margin-left: -150px;
-  margin-top: 350px;
-}
-
-.play-games-img1 img {
-  position: absolute;
-  margin-left: -150px;
-  margin-top: 350px;
+.play-games-img000 {
+  margin-bottom: -100px;
 }
 
 .play-games-right {
