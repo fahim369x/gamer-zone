@@ -72,8 +72,8 @@
   }
 
   .banner-right img {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 250px;
     margin: auto;
     margin-top: 60px;
     margin-bottom: 30px;
@@ -116,7 +116,7 @@
 
   .gamer-section-left img {
     margin-left: var(--margin-left-right);
-    width: 450px;
+    width: 350px;
     margin: auto;
   }
 
@@ -167,23 +167,23 @@
 
   .play-games-img01 {
     margin-left: -70px;
-    width: 400px;
+    width: 250px;
   }
   .play-games-img00 {
-    width: 250px;
-    margin-bottom: -500px;
-    margin-left: 130px;
+    width: 170px;
+    margin-bottom: -350px;
+    margin-left: 50px;
   }
 
   .play-games-img001 {
     margin-right: 0px;
     margin-left: 30px;
-    width: 400px;
+    width: 270px;
   }
   .play-games-img000 {
-    width: 250px;
-    margin-top: -200px;
-    margin-left: 230px;
+    width: 160px;
+    margin-top: -60px;
+    margin-left: 180px;
   }
 
   .play-games-left {
@@ -211,19 +211,20 @@
   .p-g-anywhere-right-section {
     text-align: center;
     width: 330px;
+    margin-left: 30px;
     margin-bottom: 50px;
   }
 
   .careers-section-left {
-    width: 400px;
+    width: 330px;
     color: #e7e7e7;
-    margin-left: 40px;
-    margin-top: -50px;
+    margin-left: 20px;
+    margin-top: 0px;
   }
 
   .careers-section {
     background-color: #ff42a5;
-    height: 1200px;
+    height: 1000px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -233,7 +234,7 @@
 
   .careers-section-right img {
     width: 100%;
-    height: 500px;
+    height: 350px;
   }
 
   .careers-section-left > p {
@@ -282,7 +283,7 @@
     justify-content: center;
     flex-wrap: wrap;
     max-width: 900px;
-    margin: 100px auto 100px auto;
+    margin: 50px auto 50px auto;
   }
 
   .categoryItem1 {
@@ -327,10 +328,9 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    color: #fff;
   }
   .footer-our-service p {
-    margin: 25px;
+    margin: 15px;
   }
   .our-social-media i {
     display: flex;
@@ -339,12 +339,9 @@
     margin-top: 50px;
     margin-left: 40px;
     margin-right: 40px;
-    color: #fff;
     font-size: 35px;
   }
-  .footer-our-service p {
-    margin-right: 40px;
-  }
+
   .our-social-media {
     display: block;
     justify-content: center;
@@ -356,17 +353,5 @@
   .icon-division2 {
     display: flex;
     justify-content: center;
-  }
-
-  .privacysectionfirst {
-    display: flex;
-    margin-top: 40px;
-    justify-content: center;
-  }
-  .policysecond {
-    margin-top: 20px;
-  }
-  .privacy-policy p {
-    color: #787777;
   }
 }
